@@ -96,3 +96,5 @@ The loading stage persists the processed data in analysis-ready formats:
 
 4. **Verify output**
 
+## Chart
+![flow diagram of the ETL](Chart.png)
